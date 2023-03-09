@@ -1,3 +1,7 @@
 # M1-Projet-APA
 
-You will need ```console libtiff / libxt ``` to build this project.
+You will need ```libtiff``` and ```libxt``` to build this project.
+
+```
+$ make tp
+```
