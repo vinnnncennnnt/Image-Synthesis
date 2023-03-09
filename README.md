@@ -11,6 +11,8 @@ $ make tp
 How to use it :
 ```
 $ ./tp --help
+```
+```
 Accepte jusqu'a 6 parametres :
  fichier image, defaut : gravier.tif
  numero de l'algorithme, defaut : 0
@@ -26,5 +28,5 @@ Algorithmes :
  3 : raccord avec coupe optimale (recursif naif)
  4 : raccord avec coupe optimale (recursif utilisable)
  5 : raccord avec coupe optimale (iteratif)
-
 ```
+
