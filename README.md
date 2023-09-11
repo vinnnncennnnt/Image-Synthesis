@@ -1,14 +1,14 @@
 # M1-Projet-APA
 
-You will need ```libtiff``` and ```libxt``` packages.
+You will need ```libtiff``` and ```libxt``` packages to run the project.
 
-To build the project :
+How to build :
 
 ```
 $ make tp
 ```
 
-How to use it :
+How to use :
 ```
 $ ./tp --help
 ```
