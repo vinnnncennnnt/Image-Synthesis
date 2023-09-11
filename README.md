@@ -1,4 +1,4 @@
-# M1-Projet-APA
+# Image-Synthesis
 
 You will need ```libtiff``` and ```libxt``` packages to run the project.
 
